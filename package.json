@@ -1,0 +1,29 @@
+{
+    "name": "dankula",
+    "displayName": "dankula",
+    "description": "Color scheme based on the IntelliJ's darcula",
+    "version": "0.0.1",
+    "publisher": "Grumnik",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords":[
+        "theme",
+        "intellij",
+        "dankula",
+        "darcula",
+        "pycharm"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dankula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dankula-color-theme.json"
+            }
+        ]
+    }
+}

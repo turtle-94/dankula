@@ -17,6 +17,10 @@
         "darcula",
         "pycharm"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/turtle-94/dankula"
+    },
     "contributes": {
         "themes": [
             {
